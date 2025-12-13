@@ -1,5 +1,14 @@
-## Hi there 👋
+# Alejandro Tañón Díaz
+## About Me
 
+- Focus: Web development, Data Analysis, and Systems
+- Interests: Optimization, data-driven projects, and open-source tools  
+
+## Links
+
+- Personal website: https://alejandrotanondiaz.com  
+- LinkedIn: https://linkedin.com/in/alejandrotanon 
+- Instagram: https://www.instagram.com/alejandrotanon/
 <!--
 **alejandrotanondiaz/alejandrotanondiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
